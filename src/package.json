@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/BruceHuang2017/angularApp/issues"
   },
-  "homepage": "https://github.com/BruceHuang2017/angularApp#readme"
+  "homepage": "https://github.com/BruceHuang2017/angularApp#readme",
+  "dependencies": {
+    "@angular/cli": "^7.3.8"
+  }
 }
